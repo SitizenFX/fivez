@@ -1,13 +1,13 @@
 # 🔒 Security Notice – fivez Engine
 
-DJsiita Studios takes the security of Vidllux Engine and its associated services very seriously.  
+SitizenFX takes the security of fivez Engine and its associated services very seriously.  
 This includes both the framework itself and any multiplayer or online components provided with the engine.
 
 ---
 
 ## ⚠️ Usage & Security Guidelines
 
-Vidllux Engine is **proprietary software**. You are allowed to use the framework,  
+fivez Engine is **proprietary software**. You are allowed to use the framework,  
 but **NOT the source code**. Any attempt to access, modify, redistribute, or reverse-engineer  
 the source code is strictly prohibited.
 
@@ -26,7 +26,7 @@ the source code is strictly prohibited.
 Please report security issues using one of the following channels:
 
 - **Support Email:** [legalvidllq@gmail.com](mailto:legalvidllq@gmail.com)  
-- **Official Contact Form:** [DJsiita Studios Contact](https://yourwebsite.com/contact)
+- **Official Contact Form:** [SitizenFX Contact](https://yourwebsite.com/contact)
 
 A member of the DJsiita Studios team will review and respond within 24 hours.  
 If you do not receive a response, please follow up via the same channel.
@@ -45,7 +45,7 @@ Please include as much information as possible to help us understand the issue:
 
 ## 📝 License
 
-See `LICENSE.txt` for full DJsiita Studios Proprietary License details.  
+See `LICENSE.txt` for full SitizenFX Proprietary License details.  
 Unauthorized use may result in legal enforcement.  
 **Protected under Zambian copyright law and international treaties (Berne Convention).**
 
@@ -53,7 +53,7 @@ Unauthorized use may result in legal enforcement.
 
 ## 🚀 TL;DR
 
-- Vidllux Engine = 🔒 Proprietary + 🚀 Multiplayer Framework + 🎨 Fully Custom + 💡 Internal Studio Use Only  
+- fivez Engine = 🔒 Proprietary + 🚀 Multiplayer Framework + 🎨 Fully Custom + 💡 Internal Studio Use Only  
 - Security issues must be reported **privately**, never publicly.  
 - Unauthorized use or sharing of source code is strictly prohibited.
 - 
