@@ -1,4 +1,4 @@
-# Building Cfx.re
+# Building Sfx.re
 
 ## Generate solution
 
