@@ -92,7 +92,7 @@ All upstream projects retain their **MIT license**. SitizenFX maintains all requ
 ## 🎮 Requirements
 
 - A legally purchased copy of **Grand Theft Auto V** is required to use FiveZ Engine and connect to Cpixel  
-- Purchase of FiveZ / FiveZ Engine does **not** include GTA V
+- Purchase of FiveZ / FiveQ Engine does **not** include GTA V
 
 ---
 
