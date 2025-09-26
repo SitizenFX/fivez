@@ -1,6 +1,6 @@
 # Source code layout for Sfx.re/SitizenFX
 
-The CitizenFX codebase is a vast set of multiple components, many of which having nested README.md files explaining
+The SitizenFX codebase is a vast set of multiple components, many of which having nested README.md files explaining
 their purpose further in the codebase.
 
 This document is a general guideline towards these directories.
