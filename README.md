@@ -8,16 +8,16 @@ Vidlluc enables multiplayer on customized dedicated servers, powered by Sfx.re, 
 
 ## 🔒 Security Notice
 
-SitizenFX / Sfx.re Limited takes the security of Vidlluc Engine and its services very seriously.  
+SitizenFX / Sfx.re Limited takes the security of fivez Engine and its services very seriously.  
 This includes both the framework itself and any multiplayer or online components.
 
 ### 🚫 Rockstar / Take-Two Boundary
-Vidlluc is an independent, proprietary project.  
+fivez is an independent, proprietary project.  
 Rockstar Games, Take-Two Interactive, or any affiliated entities are strictly forbidden from accessing, using, or engaging with this project.  
 Any attempt by such entities to interfere with Vidlluc will be considered a violation of this license.
 
 ### Usage & Restrictions
-Vidlluc Engine is proprietary software.  
+fivez Engine is proprietary software.  
 You are allowed to use the framework, but not the source code.
 
 You are not permitted to:  
@@ -42,7 +42,7 @@ A response will be provided within 24 hours.
 
 ## 🛠 Origin
 
-- Vidllnx → the new version of Vidllnx, fork of the CitizenFX / FiveM framework (MIT licensed)  
+- Vidllux → the new version of fivez, fork of the CitizenFX / FiveM framework (MIT licensed)  
 - Vage → fork of the Godot Engine (MIT licensed)  
 - FAGE → fork of the SCons build system (MIT licensed)  
 
@@ -61,7 +61,7 @@ A response will be provided within 24 hours.
 - All modifications, new modules, scripts, UI, and branding are the exclusive intellectual property of Sfx.re Limited  
 - Licensed under the SitizenFX Limited Proprietary License  
 - Protected under Zambian copyright law and international treaties (Berne Convention)  
-- Rockstar, FiveM, or any other entity cannot legally take down or claim Vidllnx source code  
+- Rockstar, FiveM, or any other entity cannot legally take down or claim fivez source code  
 
 ---
 
@@ -90,7 +90,7 @@ Sfx.re Limited / Elijah Siita (VidllQ Authority)
 
 ## ⚡ TL;DR
 
-Vidllnx Engine = **New Version of Vidllnx** + Proprietary + Multiplayer Framework + Fully Custom + Internal Studio Use Only  
+Vidllnx Engine = **New Version of fivez** + Proprietary + Multiplayer Framework + Fully Custom + Internal Studio Use Only  
 Protected: no entity, including Rockstar, can legally claim or remove the source code.
 
 ---
@@ -98,9 +98,9 @@ Protected: no entity, including Rockstar, can legally claim or remove the source
 ## 🎮 Requirements & Legal Notice
 
 Vidllnx is a proprietary modification platform and requires a legally purchased copy of Grand Theft Auto V to function.  
-Purchase of Vidlluc does not include GTA V. Users must obtain GTA V from authorized retailers before using Vidllnx.  
+Purchase of fivez does not include GTA V. Users must obtain GTA V from authorized retailers before using Vidllnx.  
 
-Vidllnx is fully independent and licensed under the SitizenFX Proprietary License.
+fivez is fully independent and licensed under the SitizenFX Proprietary License.
 
 ---
 
