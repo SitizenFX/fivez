@@ -1,14 +1,14 @@
-# 🔒 Security Notice – fivez
+# 🔒 Security Notice – FiveZ
 
-SitizenFX takes the security of fivez  and its associated services very seriously.  
-This includes both the framework itself and any multiplayer or online components provided with the engine.
+**SitizenFX** takes the security of FiveZ and its associated services very seriously.  
+This includes the framework itself and any multiplayer or online components provided with the engine.
 
 ---
 
 ## ⚠️ Usage & Security Guidelines
 
-fivez is **proprietary software**. You are allowed to use the framework,  
-but **NOT the source code**. Any attempt to access, modify, redistribute, or reverse-engineer  
+FiveZ is **proprietary software**. You are allowed to use the framework,  
+but **do not have access to the source code**. Any attempt to access, modify, redistribute, or reverse-engineer  
 the source code is strictly prohibited.
 
 ---
@@ -31,21 +31,21 @@ Please report security issues using one of the following channels:
 A member of the DJsiita Studios team will review and respond within 24 hours.  
 If you do not receive a response, please follow up via the same channel.
 
-Please include as much information as possible to help us understand the issue:
+Include as much information as possible to help us understand the issue:
 
-- Type of issue (e.g., buffer overflow, XSS, RCE, etc.)  
+- Type of issue (e.g., buffer overflow, XSS, RCE)  
 - Product/service affected (FiveM, RedM, FXServer, etc.)  
 - Version/update channel of the product (if known)  
-- The location of the affected source code (tag/commit or direct URL)  
+- Location of the affected source code (tag/commit or direct URL)  
 - Step-by-step instructions to reproduce the issue  
 - Proof-of-concept or exploit code (if possible)  
-- Impact of the issue, including how an attacker might exploit it
+- Impact of the issue, including potential attacker scenarios
 
 ---
 
 ## 📝 License
 
-See `LICENSE.txt` for full SitizenFX Proprietary License details.  
+See `LICENSE.txt` for full **SitizenFX Proprietary License** details.  
 Unauthorized use may result in legal enforcement.  
 **Protected under Zambian copyright law and international treaties (Berne Convention).**
 
@@ -53,7 +53,6 @@ Unauthorized use may result in legal enforcement.
 
 ## 🚀 TL;DR
 
-- fivez = 🔒 Proprietary + 🚀 Multiplayer Framework + 🎨 Fully Custom + 💡 Internal Studio Use Only  
-- Security issues must be reported **privately**, never publicly.  
-- Unauthorized use or sharing of source code is strictly prohibited.
-- 
+- FiveZ = 🔒 Proprietary + 🚀 Multiplayer Framework + 🎨 Fully Custom + 💡 Internal Studio Use Only  
+- Security issues must be reported **privately**, never publicly  
+- Unauthorized use or sharing of source code is strictly prohibited
