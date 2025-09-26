@@ -1,13 +1,13 @@
-# 🔒 Security Notice – fivez Engine
+# 🔒 Security Notice – fivez
 
-SitizenFX takes the security of fivez Engine and its associated services very seriously.  
+SitizenFX takes the security of fivez  and its associated services very seriously.  
 This includes both the framework itself and any multiplayer or online components provided with the engine.
 
 ---
 
 ## ⚠️ Usage & Security Guidelines
 
-fivez Engine is **proprietary software**. You are allowed to use the framework,  
+fivez is **proprietary software**. You are allowed to use the framework,  
 but **NOT the source code**. Any attempt to access, modify, redistribute, or reverse-engineer  
 the source code is strictly prohibited.
 
@@ -53,7 +53,7 @@ Unauthorized use may result in legal enforcement.
 
 ## 🚀 TL;DR
 
-- fivez Engine = 🔒 Proprietary + 🚀 Multiplayer Framework + 🎨 Fully Custom + 💡 Internal Studio Use Only  
+- fivez = 🔒 Proprietary + 🚀 Multiplayer Framework + 🎨 Fully Custom + 💡 Internal Studio Use Only  
 - Security issues must be reported **privately**, never publicly.  
 - Unauthorized use or sharing of source code is strictly prohibited.
 - 
