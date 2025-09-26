@@ -1,6 +1,6 @@
 # 🚀 SitizenFX (fivez) – Version 2.0 (September 2025)
 
-Vidlluc Engine is the **new version of Vidllux**, a proprietary multiplayer and game framework developed and maintained by Sfx.re Limited.  
+Vidlluc Engine is the **new version of fivez**, a proprietary multiplayer and game framework developed and maintained by Sfx.re Limited.  
 It is a custom fork of the CitizenFX framework, expanded with new systems, branding, and modules.  
 Vidlluc enables multiplayer on customized dedicated servers, powered by Sfx.re, with next-gen improvements in performance, security, and modularity.
 
