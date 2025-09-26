@@ -1,9 +1,9 @@
 # 🚀 SitizenFX / FiveZ – Version 2.0 (September 2025)
 
-**Vidlluc Engine** is the next-generation version of FiveZ, a proprietary multiplayer and game framework developed and maintained by **Sfx.re Limited**.  
+**FiveZ Engine** is the next-generation version of FiveZ, a proprietary multiplayer and game framework developed and maintained by **Sfx.re Limited**.  
 It is a custom fork of the **CitizenFX framework**, expanded with new systems, branding, and modules to deliver high-performance multiplayer on dedicated servers.
 
-**Cpixel** is a GTA RP server running on top of Vidlluc Engine, providing a fully custom roleplay experience.
+**Cpixel** is a GTA RP server running on top of FiveZ Engine, providing a fully custom roleplay experience.
 
 ---
 
@@ -47,7 +47,7 @@ All upstream projects retain their **MIT license**. SitizenFX maintains all requ
 
 ## 🎮 Cpixel Server
 
-- The official RP server powered by Vidlluc Engine  
+- The official RP server powered by FiveZ Engine  
 - Hosts all gameplay, economy, and custom content  
 - Implements premium features including:  
   - **Cpixel Coins** (Shark Card-style in-game currency)  
@@ -91,8 +91,8 @@ All upstream projects retain their **MIT license**. SitizenFX maintains all requ
 
 ## 🎮 Requirements
 
-- A legally purchased copy of **Grand Theft Auto V** is required to use Vidlluc Engine and connect to Cpixel  
-- Purchase of FiveZ / Vidlluc Engine does **not** include GTA V
+- A legally purchased copy of **Grand Theft Auto V** is required to use FiveZ Engine and connect to Cpixel  
+- Purchase of FiveZ / FiveZ Engine does **not** include GTA V
 
 ---
 
