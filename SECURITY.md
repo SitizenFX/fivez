@@ -1,4 +1,4 @@
-# 🔒 Security Notice – Vidllux Engine
+# 🔒 Security Notice – fivez Engine
 
 DJsiita Studios takes the security of Vidllux Engine and its associated services very seriously.  
 This includes both the framework itself and any multiplayer or online components provided with the engine.
