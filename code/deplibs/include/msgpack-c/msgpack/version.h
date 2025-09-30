@@ -1,4 +1,4 @@
-*/*
+/*
  * MessagePack for C version information
  *
  * Copyright (C) 2008-2009 FURUHASHI Sadayuki
@@ -37,5 +37,6 @@ int msgpack_version_minor(void);
 #endif
 
 #endif /* msgpack/version.h */
+
 
 
