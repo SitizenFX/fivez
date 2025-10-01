@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+##!/usr/bin/env python
 # typelib.py - Generate XPCOM typelib files from IDL.
 #
 # This Source Code Form is subject to the terms of the Mozilla Public
