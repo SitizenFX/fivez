@@ -1,4 +1,4 @@
-	project 'CitiTest'
+*	project 'CitiTest'
 		language 'C++'
 		kind 'ConsoleApp'
 
