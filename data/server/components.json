@@ -1,4 +1,4 @@
-,[
+[
   "net:base",
   "net:packet",
   "net:tcp-server",
