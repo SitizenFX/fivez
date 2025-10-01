@@ -1,4 +1,4 @@
-z[submodule "vendor/jitasm"]
+[submodule "vendor/jitasm"]
 	path = vendor/jitasm
 	url = https://github.com/citizenfx/jitasm.git
 [submodule "vendor/msgpack-c"]
