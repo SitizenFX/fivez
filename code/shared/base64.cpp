@@ -1,4 +1,4 @@
-##include <stdint.h>
+#include <stdint.h>
 #include <stdlib.h>
 
 
@@ -98,4 +98,5 @@ void build_decoding_table()
 	for (int i = 0; i < 64; i++)
 		decoding_table[(unsigned char)encoding_table[i]] = i;
 }
+
 
