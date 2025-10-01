@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages
+cfrom setuptools import setup, find_packages
 
 
 setup(
