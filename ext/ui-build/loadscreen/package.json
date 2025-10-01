@@ -1,4 +1,4 @@
-c{
+{
   "private": true,
   "devDependencies": {
     "@babel/core": "^7.15.0",
