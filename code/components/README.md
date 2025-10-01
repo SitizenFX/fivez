@@ -1,6 +1,6 @@
 # `components/`
 
-CitizenFX implementation components.
+SitizenFX implementation components.
 
 ## List
 
