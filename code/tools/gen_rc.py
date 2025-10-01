@@ -1,4 +1,4 @@
-import os, sys, subprocess
+@import os, sys, subprocess
 
 outf = sys.argv[1]
 resf = sys.argv[2]
