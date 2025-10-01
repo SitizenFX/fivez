@@ -1,37 +1,14 @@
-SitizenFX / Fivez License – Proprietary
-=======================================
-
-Copyright (c) 2025 Elijah Siita / VidllQ Authority
+Fivez – A Custom Fork of CitizenFX
+Copyright (c) 2025 SitizenFX (Elijah Siita / VidllQ Authority)
 
 Use of this source code is subject to the terms provided on the SitizenFX
 Collective website, currently version 4, available at:
 
     https://fivez.net/terms
 
-
-Intellectual Property Rights
-============================
-
-All original code, modifications, features, scripts, interfaces, systems, tools,
-and branding created by the SitizenFX Collective are the exclusive intellectual
-property of SitizenFX.
-
-This includes, but is not limited to:
-
-- Core client and server runtime logic  
-- Proprietary gameplay systems, modules, and scripts  
-- Client-side UI, rendering, and multiplayer enhancements  
-- Build tools, configuration systems, and deployment pipelines  
-- Branding, logos, and product names associated with Fivez  
-
-
-Proprietary Components
-======================
-
-The following directories and files, when explicitly marked as licensed under
-the CitizenFX Project license, are also available under the proprietary license
-as described in point 21 of the Fivez Platform Service Agreement, as of the
-date of this notice:
+The following files, as long as they are marked as licensed under the
+CitizenFX Project license, are optionally available under the MIT License,
+as in the legacy notice below, as of the time of this writing:
 
     client/shared/
     client/citicore/
@@ -45,88 +22,37 @@ date of this notice:
     vendor/*.lua
     ./
 
-When using other components, please also review point 20 of the FiveM
-proprietary license terms.
+When using other components, please review the SitizenFX Proprietary License terms.
 
+This project is based on the original CitizenFX framework by NTAuthority.
+The original permission notice is reproduced below for legacy components.
+Please note that this notice does NOT apply to any changes made since 2016.
 
-Restrictions
-============
+---
 
-You are NOT permitted to:
-
-- Use Fivez or its code outside SitizenFX without written permission  
-- Redistribute, publish, or upload any part of Fivez publicly  
-- Modify, decompile, reverse-engineer, or tamper with proprietary components  
-- Share it with third parties without explicit authorization  
-
-This software is for internal or authorized use only by SitizenFX.  
-Unauthorized use, distribution, or tampering may result in legal enforcement
-under applicable copyright law.
-
-
-Legal Protection
-================
-
-Fivez is protected under international copyright law and treaties 
-(including the Berne Convention).
-
-
-Legacy License Notice (CitizenFX Framework)
-===========================================
-
-This project is based on the original CitizenFX framework by
-Bas Timmer / NTAuthority. The original permission notice is reproduced below.
-
-NOTE: This license does not apply to any changes made since 2016.
-
-
-MIT License (for legacy components only)
-========================================
-
+MIT License (for legacy CitizenFX components only)
 Copyright (c) 2014 Bas Timmer / NTAuthority et al.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+copies of the Software, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, 
-ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-- Branding, logos, and product names associated with Vidllue
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
+IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-You are NOT permitted to:
-- Use fivev or its code outside SitizenFX
-- Redistribute, publish, or upload any part of fivev publicly
-- Modify, decompile, reverse-engineer, or tamper with proprietary components
-- Share it with third parties without written permission
+---
 
-This software is for internal or authorized use only by SitizenFX.
-Unauthorized use, distribution, or tampering will be considered a breach of copyright law
-and may result in legal enforcement under applicable intellectual property laws.
-
-────────────────────────────────────────────
-
-📍 NOTICE
-
-────────────────────────────────────────────
-
-If fivev appears publicly, on the internet, or in leaked form, SitizenFX is not responsible.
-Any unauthorized distribution is a violation of this license and is subject to takedown under copyright law.
-
-Use of fivev implies full agreement to these terms.
-
-─────────────────
-───────────────────────────
-
-End of License.
+SitizenFX Proprietary Notice
+All modifications, new modules, scripts, UI, tools, and branding created
+since the fork are the exclusive property of SitizenFX / Elijah Siita (VidllQ Authority).
+Unauthorized use, redistribution, or tampering with proprietary components is prohibited
+and protected under international copyright law (including the Berne Convention).
