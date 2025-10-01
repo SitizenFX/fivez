@@ -1,1 +1,1 @@
-*return loadfile('zstd-crt.lua')(true)
+return loadfile('zstd-crt.lua')(true)
