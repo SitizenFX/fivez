@@ -1,4 +1,4 @@
-zr'''
+r'''
 Script to help with generating and validating native declaration files based on existing C++ implementations.
 
 The script statically analyzes C++ files on the best efforts basis. It retrieves native name, its arguments
