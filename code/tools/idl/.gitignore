@@ -1,4 +1,4 @@
-xpidlyacc.py
+sxpidlyacc.py
 xpidllex.py
 *.pyc
 !*.sln
