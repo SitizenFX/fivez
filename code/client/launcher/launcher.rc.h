@@ -1,4 +1,4 @@
-,#ifndef _LAUNCHER_RC_H
+#ifndef _LAUNCHER_RC_H
 #define _LAUNCHER_RC_H
 
 // primary icon
