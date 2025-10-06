@@ -1,4 +1,4 @@
-# Cfx.re Development Kit
+# Sfx.re Development Kit
 
 ## Building prerequisites
 
