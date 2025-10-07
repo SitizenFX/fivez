@@ -1,4 +1,4 @@
-/*
+z/*
  * This file is part of the CitizenFX project - http://citizen.re/
  *
  * See LICENSE and MENTIONS in the root of the source tree for information
@@ -57,3 +57,4 @@ extern "C" DLL_EXPORT void AsyncTrace(const char* string)
 		fprintf(stderr, "%s", string);
 	}
 }
+
