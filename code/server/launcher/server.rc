@@ -1,8 +1,9 @@
 /*
  * This file is part of the CitizenFX project - http://citizen.re/
  *
- * See LICENSE and MENTIONS in the root of the source tree for information
- * regarding licensing.
+ * Modified by Elijah Siita / SitizenFX (CXServer Edition)
+ * 
+ * Original Copyright (C) 2015-2022 Cfx.re
  */
 
 // Microsoft Visual C++ generated resource script.
@@ -12,7 +13,6 @@
 
 LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 
-
 /////////////////////////////////////////////////////////////////////////////
 //
 // Icon
@@ -21,7 +21,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 // Icon with lowest ID value placed first to ensure application icon
 // remains consistent on all systems.
 IDI_ICON1               ICON                    "server.ico"
-1						RT_MANIFEST				"server.manifest"
+1                       RT_MANIFEST             "server.manifest"
 
 /////////////////////////////////////////////////////////////////////////////
 //
@@ -44,13 +44,13 @@ BEGIN
     BEGIN
         BLOCK "040904b0"
         BEGIN
-            VALUE "CompanyName", "Cfx.re"
-			VALUE "FileDescription", "Cfx.re Platform Server (FXServer)"
+            VALUE "CompanyName", "Sfx.re"
+            VALUE "FileDescription", "Sfx.re Platform Server (CXServer)"
             VALUE "FileVersion", "1.0.0.0"
-            VALUE "InternalName", "Citizen"
-            VALUE "LegalCopyright", "(C) 2017-2020 Cfx.re"
-            VALUE "OriginalFilename", "FXServer.exe"
-            VALUE "ProductName", "CitizenFX"
+            VALUE "InternalName", "Sitizen"
+            VALUE "LegalCopyright", "(C) 2017-2020 Sfx.re"
+            VALUE "OriginalFilename", "CXServer.exe"
+            VALUE "ProductName", "SitizenFX"
             VALUE "ProductVersion", "1.0.0.0"
         END
     END
