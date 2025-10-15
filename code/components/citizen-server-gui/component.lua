@@ -1,4 +1,4 @@
-return function()
+
 	filter {}
 	
 	includedirs {
