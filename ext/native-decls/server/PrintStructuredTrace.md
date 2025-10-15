@@ -1,5 +1,5 @@
 ---
-ns: CFX
+ns: SFX
 apiset: server
 ---
 ## PRINT_STRUCTURED_TRACE
