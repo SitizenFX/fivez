@@ -5,7 +5,7 @@
  * regarding licensing.
  */
 
-#"
+#include "StdInc.h"
 #include "ComponentLoader.h"
 
 class ComponentInstance : public Component
