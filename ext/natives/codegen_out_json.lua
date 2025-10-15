@@ -1,4 +1,4 @@
-local md = require('markdown')
+ md = require('markdown')
 
 local function formatJsonType(t, v)
 	local s = t.name:gsub('Ptr', '*')
