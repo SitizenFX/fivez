@@ -1,4 +1,4 @@
-native "0x42B65DEEF2EDF2A1"
+cnative "0x42B65DEEF2EDF2A1"
 	hash "0x42B65DEEF2EDF2A1"
 	arguments {
 		Any "p0",
