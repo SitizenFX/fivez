@@ -1,4 +1,4 @@
-# FiveM server typings
+# Fivez server typings
 
 ## Breaking changes
 
