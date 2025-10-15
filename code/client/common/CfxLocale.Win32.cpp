@@ -1,4 +1,4 @@
- <StdInc.h>
+#include <StdInc.h>
 
 #if !defined(COMPILING_LAUNCH) || defined(LAUNCHER_PERSONALITY_MAIN)
 #include <CfxLocale.h>
