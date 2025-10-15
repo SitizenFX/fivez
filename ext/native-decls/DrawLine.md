@@ -1,5 +1,5 @@
 ---
-ns: CFX
+ns: SFX
 apiset: client
 game: rdr3
 ---
