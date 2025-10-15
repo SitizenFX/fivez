@@ -1,5 +1,5 @@
 {
-	"name": "citizen:server:gui",
+	"name": "Sitizen:server:gui",
 	"version": "0.1.0",
 	"dependencies": [
 		"fx[2]",
