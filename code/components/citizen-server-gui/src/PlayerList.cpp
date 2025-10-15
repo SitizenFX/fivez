@@ -1,4 +1,4 @@
-#
+#include <StdInc.h>
 #include <state/ServerGameStatePublic.h>
 #include <ClientRegistry.h>
 #include <GameServer.h>
