@@ -1,4 +1,4 @@
- System;
+using System;
 using Microsoft.SymbolStore;
 
 namespace CitizenFX.BuildTools.SymbolUpload
