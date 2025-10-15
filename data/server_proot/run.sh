@@ -1,4 +1,4 @@
-#!/bin/bash
+g#!/bin/bash
 
 # save the script directory
 SCRIPT=$(readlink -f "$0")
