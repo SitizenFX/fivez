@@ -1,4 +1,4 @@
-#
+#include <StdInc.h>
 
 #include <ServerInstanceBaseRef.h>
 #include <GameServer.h>
