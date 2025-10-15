@@ -1,4 +1,4 @@
-# FiveM client typings
+# Fivez client typings
 
 ## Breaking changes
 
