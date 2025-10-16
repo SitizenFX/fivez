@@ -1,5 +1,5 @@
 ---
-ns: CFX
+ns: SFX
 apiset: client
 ---
 ## FIND_NEXT_OBJECT
